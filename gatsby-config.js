@@ -4,10 +4,10 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-source-wordpress",
-      options: {
-        url: "",
-      },
+      // resolve: "gatsby-source-wordpress",
+      // options: {
+      //   url: "",
+      // },
     },
   ],
 };
