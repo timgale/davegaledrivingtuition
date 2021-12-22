@@ -11,11 +11,11 @@ module.exports = {
         typeName: 'WPGraphQL',
         fieldName: 'wpgraphql',
         url: "http://www.davegaledrivingtuition.co.uk/graphql",
-        debug: {
-          graphql: {
-            copyHtmlResponseOnError: true
-          }
-        },
+        // debug: {
+        //   graphql: {
+        //     copyHtmlResponseOnError: true
+        //   }
+        // },
       },
     },
   ],
